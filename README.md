@@ -1,3 +1,3 @@
-I'm @dahshurutley, my code isn't the best but I'm getting there
+I'm @dahshurutley, Intermediate Python Coder
 
 dahshurutley@gmail.com is my main Email Adress. 
